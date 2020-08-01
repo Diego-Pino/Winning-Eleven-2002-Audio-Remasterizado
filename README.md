@@ -105,6 +105,12 @@ Este parche para `Winning Eleven 2002` de **Audio Remasterizado** saldra incorpo
 
 **Rod**: Por tus MCR para el juego de  `World Cup Italia 90`
 
+**Helldrigo**: Del grupo  `WELegends`
+
+**Kill**: Del grupo  `WELegends`
+
+**Evil**: Del grupo `WELegends`
+
 
 ## Soporte en las siguientes comundidades:
 
@@ -126,6 +132,23 @@ git commit -m "first commit"
 git remote add origin https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado.git
 git push -u origin master
 ```
+
+## Videos:
+Video audio remasterizado, Ejemplo 1
+[![WE2002](http://img.youtube.com/vi/z8wUEBF8OmE/0.jpg)](http://www.youtube.com/watch?v=z8wUEBF8OmE "Winning Eleven 2002")
+
+Video audio remasterizado, Ejemplo 2
+[![Winning Eleven](http://img.youtube.com/vi/ZwXSWtyzWWs/0.jpg)](http://www.youtube.com/watch?v=ZwXSWtyzWWs "Winning Eleven 2002")
+
+Video audio remasterizado, Ejemplo 3
+[![Winning Eleven](http://img.youtube.com/vi/HYuVYlQQf50/0.jpg)](http://www.youtube.com/watch?v=HYuVYlQQf50 "Winning Eleven 2002")
+
+Video audio remasterizado, Ejemplo 4
+[![Winning Eleven](http://img.youtube.com/vi/WquRjxFb2Ik/0.jpg)](http://www.youtube.com/watch?v=WquRjxFb2Ik "Winning Eleven 2002")
+
+Video audio remasterizado, Ejemplo 5
+[![Winning Eleven](http://img.youtube.com/vi/bFomu8ewgUc/0.jpg)](http://www.youtube.com/watch?v=bFomu8ewgUc "Winning Eleven 2002")
+
 
 
 ## Palabras finales:
