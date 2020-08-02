@@ -20,10 +20,10 @@ Muchos de estos audios son en Segundos, de `1 segundo` a `3 Segundos` como es ta
 Muchos de estos audios `Gritos Torcidas Canticos de Hinchas Alemania` son en Segundos, como es tan poco el tiempo, se pusieron el `Sonido de Vuvucelas` para darle una mayor **profundidad al sonido del Juego**, muchos de los audios de este equipo son de pocos segundos, se podria decir que este equipo tiene muy pocos audios de banca con duracion en segundos. aca el resumen de la duracion de los `Bancos de Audio`
 
 ```sh
-- Total Audio `1 segundo` con 2 Bancos de Audios
-- Total Audio `2 segundo` con 4 Bancos de Audios
-- Total Audio `3 segundo` con 10 Bancos de Audios
-- Total Audio `4 segundo` con 4 Bancos de Audios
+- Total Audio (1 segundo) con 2 Bancos de Audios
+- Total Audio (2 segundo) con 4 Bancos de Audios
+- Total Audio (3 segundo) con 10 Bancos de Audios
+- Total Audio (4 segundo) con 4 Bancos de Audios
 ```
 
 | Sonido     | Nuevo Audio | Tiempo  |
@@ -48,6 +48,41 @@ Muchos de estos audios `Gritos Torcidas Canticos de Hinchas Alemania` son en Seg
 | [Sonido 18](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Nuevo Canto  | Duración `2 seg`  |
 | [Sonido 19](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Nuevo Canto | Duración `2 seg`   |
 | [Sonido 20](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Nuevo Canto | Duración `3 seg`  |
+
+## Gritos Torcidas Canticos de Hinchas Argentina:
+Muchos de estos audios `Gritos Torcidas Canticos de Hinchas Argentina` son en Segundos, como es tan poco el tiempo, se pusieron el `Sonido de Vuvucelas` para darle una mayor **profundidad al sonido del Juego**, muchos de los audios de este equipo son variados en duracion de tiempo, este `team de Argentina` tiene una varierdad de `Bancos de Audio` aca el resumen de la duracion del tiempo de estos `Bancos de Audio`
+
+```sh
+- Total Audio (2 segundo) con 5 Bancos de Audios
+- Total Audio (4 segundo) con 2 Bancos de Audios
+- Total Audio (5 segundo) con 3 Bancos de Audios
+- Total Audio (7 segundo) con 2 Bancos de Audios
+- Total Audio (10 segundo) con 2 Bancos de Audios
+- Total Audio (13 segundo) con 6 Bancos de Audios
+```
+
+| Sonido     | Nuevo Audio | Tiempo  |
+| ---------- | ---------- | ---------- |
+| [Sonido 1](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Argentina)  | Vuvucelas   | Duración `2 seg`   |
+| [Sonido 2](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Argentina)  | Nuevo Canto | Duración `2 seg`  |
+| [Sonido 3](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Argentina)   | Nuevo Canto | Duración `5 seg`   |
+| [Sonido 4](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Argentina)  | Nuevo Canto | Duración `5 seg`  |
+| [Sonido 5](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Argentina)  | Nuevo Canto | Duración `7 seg`   |
+| [Sonido 6](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Argentina)  | Nuevo Canto | Duración `13 seg`  |
+| [Sonido 7](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Argentina)   | Nuevo Canto | Duración `10 seg`   |
+| [Sonido 8](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Argentina)   | Nuevo Canto | Duración `2 seg`  |
+| [Sonido 9](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Argentina)   | Nuevo Canto | Duración `13 seg`   |
+| [Sonido 10](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Argentina)  | Nuevo Canto  | Duración `2 seg`  |
+| [Sonido 11](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Argentina)  | Vuvucelas   | Duración `13 seg`   |
+| [Sonido 12](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Argentina)  | Nuevo Canto | Duración `5 seg`  |
+| [Sonido 13](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Argentina)  | Nuevo Canto | Duración `13 seg`   |
+| [Sonido 14](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Argentina)  | Nuevo Canto | Duración `10 seg`  |
+| [Sonido 15](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Argentina)  | Nuevo Canto | Duración `4 seg`   |
+| [Sonido 16](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Argentina)  | Nuevo Canto | Duración `7 seg`  |
+| [Sonido 17](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Argentina)  | Nuevo Canto | Duración `4 seg`   |
+| [Sonido 18](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Argentina)  | Nuevo Canto  | Duración `13 seg`  |
+| [Sonido 19](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Argentina)  | Nuevo Canto | Duración `2 seg`   |
+| [Sonido 20](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Argentina)  | Nuevo Canto | Duración `13 seg`  |
 
 
 ## Narracion del Juego:
