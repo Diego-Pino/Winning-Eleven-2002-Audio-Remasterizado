@@ -263,7 +263,7 @@ He decidido crear el repositorio en GitHub.
 este trabajo es todo **hecho por mi persona** llevo mucho tiempo trabajando en el y pienso que es importante subirlo a esta plataforma para darle un mejor manejo de archivos y actualizaciones. 
 la idea es que esta sea la primera version de la cual se ira actualizando por este medio.
 
-la licencia es MIT.  
+la licencia es **GNU General Public License v3.0**
 actualizare esta informacion pronto...
 
 Atte: **Pino**
