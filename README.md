@@ -26,9 +26,10 @@ Muchos de estos audios `Gritos Torcidas Canticos de Hinchas Alemania` son en Seg
 - Total Audio `4 segundo` con 4 Bancos de Audios
 ```
 
+
 | Sonido     | Nuevo Audio | Tiempo  |
 | ---------- | ---------- | ---------- |
-| Sonido 1  | Vuvucelas   | Duración `1 seg`   |
+| [Sonido 1](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Vuvucelas   | Duración `1 seg`   |
 | Sonido 2  | Nuevo Canto | Duración `3 seg`  |
 | Sonido 3  | Nuevo Canto | Duración `3 seg`   |
 | Sonido 4  | Nuevo Canto | Duración `3 seg`  |
