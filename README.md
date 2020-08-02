@@ -26,29 +26,29 @@ Muchos de estos audios `Gritos Torcidas Canticos de Hinchas Alemania` son en Seg
 - Total Audio `4 segundo` con 4 Bancos de Audios
 ```
 
-
 | Sonido     | Nuevo Audio | Tiempo  |
 | ---------- | ---------- | ---------- |
 | [Sonido 1](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Vuvucelas   | Duración `1 seg`   |
-| Sonido 2  | Nuevo Canto | Duración `3 seg`  |
-| Sonido 3  | Nuevo Canto | Duración `3 seg`   |
-| Sonido 4  | Nuevo Canto | Duración `3 seg`  |
-| Sonido 5  | Nuevo Canto | Duración `4 seg`   |
-| Sonido 6  | Nuevo Canto | Duración `3 seg`  |
-| Sonido 7  | Nuevo Canto | Duración `4 seg`   |
-| Sonido 8  | Nuevo Canto | Duración `2 seg`  |
-| Sonido 9  | Nuevo Canto | Duración `3 seg`   |
-| Sonido 10 | Nuevo Canto  | Duración `3 seg`  |
-| Sonido 11 | Vuvucelas   | Duración `1 seg`   |
-| Sonido 12 | Nuevo Canto | Duración `3 seg`  |
-| Sonido 13 | Nuevo Canto | Duración `3 seg`   |
-| Sonido 14 | Nuevo Canto | Duración `2 seg`  |
-| Sonido 15 | Nuevo Canto | Duración `4 seg`   |
-| Sonido 16 | Nuevo Canto | Duración `3 seg`  |
-| Sonido 17 | Nuevo Canto | Duración `4 seg`   |
-| Sonido 18 | Nuevo Canto  | Duración `2 seg`  |
-| Sonido 19 | Nuevo Canto | Duración `2 seg`   |
-| Sonido 20 | Nuevo Canto | Duración `3 seg`  |
+| [Sonido 2](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Nuevo Canto | Duración `3 seg`  |
+| [Sonido 3](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Nuevo Canto | Duración `3 seg`   |
+| [Sonido 4](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Nuevo Canto | Duración `3 seg`  |
+| [Sonido 5](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Nuevo Canto | Duración `4 seg`   |
+| [Sonido 6](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Nuevo Canto | Duración `3 seg`  |
+| [Sonido 7](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Nuevo Canto | Duración `4 seg`   |
+| [Sonido 8](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Nuevo Canto | Duración `2 seg`  |
+| [Sonido 9](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Nuevo Canto | Duración `3 seg`   |
+| [Sonido 10](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Nuevo Canto  | Duración `3 seg`  |
+| [Sonido 11](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Vuvucelas   | Duración `1 seg`   |
+| [Sonido 12](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Nuevo Canto | Duración `3 seg`  |
+| [Sonido 13](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Nuevo Canto | Duración `3 seg`   |
+| [Sonido 14](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Nuevo Canto | Duración `2 seg`  |
+| [Sonido 15](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Nuevo Canto | Duración `4 seg`   |
+| [Sonido 16](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Nuevo Canto | Duración `3 seg`  |
+| [Sonido 17](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Nuevo Canto | Duración `4 seg`   |
+| [Sonido 18](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Nuevo Canto  | Duración `2 seg`  |
+| [Sonido 19](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Nuevo Canto | Duración `2 seg`   |
+| [Sonido 20](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Alemania)  | Nuevo Canto | Duración `3 seg`  |
+
 
 ## Narracion del Juego:
 Esta dividida en dos Secciones 
