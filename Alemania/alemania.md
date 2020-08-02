@@ -2,10 +2,10 @@
 Muchos de estos audios `Gritos Torcidas Canticos de Hinchas Alemania` son en Segundos, como es tan poco el tiempo, se pusieron el `Sonido de Vuvucelas` para darle una mayor **profundidad al sonido del Juego**, muchos de los audios de este equipo son de pocos segundos, se podria decir que este equipo tiene muy pocos audios de banca con duracion en segundos. aca el resumen de la duracion de los `Bancos de Audio`
 
 ```sh
-- Total Audio `1 segundo` con 2 Bancos de Audios
-- Total Audio `2 segundo` con 4 Bancos de Audios
-- Total Audio `3 segundo` con 10 Bancos de Audios
-- Total Audio `4 segundo` con 4 Bancos de Audios
+- Total Audio (1 segundo) con 2 Bancos de Audios
+- Total Audio (2 segundo) con 4 Bancos de Audios
+- Total Audio (3 segundo) con 10 Bancos de Audios
+- Total Audio (4 segundo) con 4 Bancos de Audios
 ```
 
 | Sonido     | Nuevo Audio | Tiempo  |
