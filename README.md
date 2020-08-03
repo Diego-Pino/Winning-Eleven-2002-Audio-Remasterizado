@@ -262,6 +262,42 @@ Muchos de estos audios `Gritos Torcidas Canticos de Hinchas Holanda` son en Segu
 | [Sonido 20](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Holanda)  | Vuvucelas | Duración `5 seg`  |
 
 
+## Gritos Torcidas Canticos de Hinchas Italia:
+Muchos de estos audios `Gritos Torcidas Canticos de Hinchas Italia` son en Segundos, como es tan poco el tiempo, se pusieron el `Sonido de Vuvucelas` para darle una mayor **profundidad al sonido del Juego**, muchos de los audios de este equipo son variados en duracion de tiempo, este `team de Italia` tiene una varierdad de `Bancos de Audio` aca el resumen de la duracion del tiempo de estos `Bancos de Audio`
+
+```sh
+- Total Audio (1 segundo) con 3 Bancos de Audios
+- Total Audio (2 segundo) con 6 Bancos de Audios
+- Total Audio (3 segundo) con 2 Bancos de Audios
+- Total Audio (6 segundo) con 5 Bancos de Audios
+- Total Audio (7 segundo) con 2 Bancos de Audios
+- Total Audio (8 segundo) con 1 Bancos de Audios
+- Total Audio (10 segundo) con 1 Bancos de Audios
+```
+
+| Sonido     | Nuevo Audio | Tiempo  |
+| ---------- | ---------- | ---------- |
+| [Sonido 1](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Italia)  | Vuvucelas   | Duración `2 seg`   |
+| [Sonido 2](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Italia) | Vuvucelas | Duración `2 seg`  |
+| [Sonido 3](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Italia)   | Vuvucelas | Duración `2 seg`   |
+| [Sonido 4](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Italia)  | Nuevo Canto | Duración `1 seg`  |
+| [Sonido 5](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Italia) | Nuevo Canto | Duración `6 seg`   |
+| [Sonido 6](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Italia)  | Nuevo Canto | Duración `2 seg`  |
+| [Sonido 7](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Italia)   | Vuvucelas | Duración `6 seg`   |
+| [Sonido 8](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Italia)   | Vuvucelas | Duración `3 seg`  |
+| [Sonido 9](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Italia)  | Vuvucelas | Duración `1 seg`   |
+| [Sonido 10](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Italia) | Vuvucelas  | Duración `6 seg`  |
+| [Sonido 11](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Italia)  | Nuevo Canto   | Duración `3 seg`   |
+| [Sonido 12](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Italia) | Nuevo Canto | Duración `6 seg`  |
+| [Sonido 13](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Italia)  | Vuvucelas | Duración `7 seg`   |
+| [Sonido 14](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Italia) | Vuvucelas | Duración `1 seg`  |
+| [Sonido 15](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Italia) | Vuvucelas | Duración `8 seg`   |
+| [Sonido 16](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Italia)  | Nuevo Canto | Duración `2 seg`  |
+| [Sonido 17](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Italia)  | Nuevo Canto | Duración `6 seg`   |
+| [Sonido 18](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Italia) | Nuevo Canto  | Duración `7 seg`  |
+| [Sonido 19](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Italia)  | Vuvucelas | Duración `10 seg`   |
+| [Sonido 20](https://github.com/Diego-Pino/Winning-Eleven-2002-Audio-Remasterizado/tree/master/Italia)  | Vuvucelas | Duración `2 seg`  |
+
 
 ## Narracion del Juego:
 Esta dividida en dos Secciones 
